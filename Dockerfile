@@ -1,1 +1,1 @@
-FROM grafana/grafana:9.5.3
+FROM quay.io/prometheus/node-exporter:v1.6.1
