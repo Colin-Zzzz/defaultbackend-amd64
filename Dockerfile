@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.27.0
+FROM registry.k8s.io/ingress-nginx/controller:v1.10.1
